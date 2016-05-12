@@ -2,6 +2,7 @@ name: Midnight Analytics
 favicon: null
 layout_spectrum: 0.4814581316895783
 typography_spectrum: 0.5294097708538175
+title: Midnight Analytics
 cta:
   domain: null
   bucket: null
