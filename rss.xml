@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Midnight Analytics]]></title>
         <description><![CDATA[Midnight Analytics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/midnight-analytics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 20:25:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 20:27:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/midnight-analytics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75b0fea5-4bb4-4bf3-9a68-90e079261705.jpg">]]></description>
+            <link>https://thegrid.ai/midnight-analytics/c7d30302-38f3-4d31-95c5-12b02ad8f0df/index.html</link>
+            <guid isPermaLink="false">c7d30302-38f3-4d31-95c5-12b02ad8f0df</guid>
+            <pubDate>Thu, 12 May 2016 20:27:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I have a keen interest in keeping up with the latest technologies. When I was born, TV was still black and white - no remote, no color, mostly "snow" (wavy horizontal lines instead of a picture). I spent much time trying to figure out how the people got into the TV set. I remember seeing a TV that was no longer working and the TV tube had been removed. I ran to the TV to see if I could figure out where the people were. I know this sounds crazy on so many levels but, remember, I was only four years old. Anyway, I'm excited to be a part of this new website creation technology and I can't wait to see the magic happen.</p>]]></description>
-            <link>undefinedi-have-a-keen-interest-in-keeping-up-with-the-latest-technol/index.html</link>
+            <link>https://thegrid.ai/midnight-analytics/i-have-a-keen-interest-in-keeping-up-with-the-latest-technol/index.html</link>
             <guid isPermaLink="false">e380b23c-f193-4b85-b17d-37b95e255d70</guid>
             <pubDate>Thu, 12 May 2016 20:25:05 GMT</pubDate>
         </item>
