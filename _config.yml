@@ -1,20 +1,4 @@
-name: Midnight Analytics
-favicon: null
-layout_spectrum: 0.4814581316895783
 typography_spectrum: 0.5294097708538175
-title: Midnight Analytics
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.030605288920924067
   saturation: 0.6848004749044776
   rhythmicContrast: 0.9378964847419411
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4814581316895783
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Midnight Analytics
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Midnight Analytics
+description: Data Visualizations
 purpose: []
